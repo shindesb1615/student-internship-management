@@ -1,0 +1,6 @@
+ID,studentName,rollNumber,division,companyName,internshipDomain,startDate,endDate,status
+1,Aarav Sharma,CE001,A,Tech Solutions,Cloud Computing,2026-06-01,2026-07-31,Completed
+2,Ananya Patil,CE002,A,DataSoft,Data Analytics,2026-06-15,2026-08-15,Ongoing
+3,Rohan Kulkarni,CE003,B,CloudTech,SAP BTP,2026-07-01,2026-09-30,Ongoing
+4,Priya Joshi,CE004,B,AI Labs,Artificial Intelligence,2026-06-01,2026-08-31,Completed
+5,Aditya More,CE005,C,SAP Partner,SAP ABAP,2026-08-01,2026-10-31,Ongoing
